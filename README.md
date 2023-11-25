@@ -1,4 +1,4 @@
-![SkyLander](https://shorturl.at/enOX1)
+![SkyLander](https://i.ibb.co/sF5sFyB/localhost-3000-1.png)
 
 
 ## Free React landing page template
