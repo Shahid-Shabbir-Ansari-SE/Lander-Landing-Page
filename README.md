@@ -1,9 +1,9 @@
-![SkyLander](https://i.ibb.co/sF5sFyB/localhost-3000-1.png)
+![Lander](https://i.ibb.co/sF5sFyB/localhost-3000-1.png)
 
 
 ## Free React landing page template
 
-[SkyLander][SkyLander] is an open-source React landing page template written in TypeScript, designed for developers and startups, who want to create a quick and professional landing page for their business or project.
+[Lander][Lander] is an open-source React landing page template written in TypeScript, designed for developers and startups, who want to create a quick and professional landing page for their business or project.
 
 This React template comes with multi-lingual support, smooth animations, set of ready to use sections and most importantly, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in React.js.
 
@@ -31,7 +31,7 @@ Your project will have everything you need to build a modern single-page React a
 
 - 🚀 **Fast** – Buttery smooth experience thanks to the implementation of best practices and no third party dependencies, resulting in <b>PERFECT</b> Google Lighthouse scores
 
-- 🏷 **TypeScript support** – SkyLander is written in TypeScript to improve the DX
+- 🏷 **TypeScript support** – Lander is written in TypeScript to improve the DX
 
 - 🌍 **Internationalization** - Prebuilt standalone file that works in every environment and doesn't require reloading the page to translate the content
 
@@ -108,6 +108,6 @@ Licensed under the MIT license.
 [styled-componets]: https://github.com/styled-components/styled-components
 [i18next]: https://github.com/i18next/i18next
 [whoooa]: https://www.whoooa.rocks/
-[SkyLander]: https://www.npmjs.com/package/cra-template-adrinlol
+[Lander]: https://www.npmjs.com/package/cra-template-adrinlol
 [Google Lighthouse]: https://developers.google.com/web/tools/lighthouse
 <!-- prettier-ignore-end -->
