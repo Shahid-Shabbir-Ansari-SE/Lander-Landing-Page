@@ -43,7 +43,7 @@ Your project will have everything you need to build a modern single-page React a
 
 ## Google Lighthouse
 
-![1](https://shorturl.at/pvDFJ)
+![1](https://i.ibb.co/0hthWMx/68747470733a2f2f73686f727475726c2e61742f707644464a.png)
 
 [Google Lighthouse][Google Lighthouse] is an open-source, automated tool for measuring the quality of web pages. Google Lighthouse audits performance, accessibility and search engine optimization of web pages.
 
